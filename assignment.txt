@@ -1,0 +1,10 @@
+1. Check for prime or not : write a function to check prime.
+2. Print primes between two given integers.
+3. Function to find sum of digits.
+4. Function to reverse an integer.
+5. Function to find the maximum digit in a given integer e.g. input = 2307, answer is 7
+6. Print the pattern
+1
+2 3
+4 5 6
+7 8 9 10

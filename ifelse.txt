@@ -1,0 +1,8 @@
+1. Find the 2nd maximum number of 3 numbers.
+2. A check given year is leap or not.
+ Note 2100 is not leap
+3. check for the validity of a date:
+    boolean isValidDate(int d, int m, int y);
+4. Write a method to read year and get first day of the year (1992) .
+    Completed Years = 1991 = 1600 + 300 + 91 (a,b,c)
+    Ans = (b/100*5 + c + c/4 + 1) % 7;
